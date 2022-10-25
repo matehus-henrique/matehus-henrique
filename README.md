@@ -1,4 +1,4 @@
-## Ola eu sou Matheus henrique, Programandor PHP!
+## Ola eu sou Matheus henrique, Programador PHP!
 
 ### Sobre mim
   Desenvolvedor Back-end Apaixonado pelo mundo da programação. Busco sempre aprimorar meus conhecimentos na área de desenvolvimento, Back-end e Front end.
